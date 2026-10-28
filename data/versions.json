@@ -1,0 +1,33 @@
+{
+ "country": "GN",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution de la République de Guinée (2025)",
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2025/guinee-jo-2025-12-sp-3.pdf",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 199,
+     "source_url": "https://journal-officiel.sgg.gov.gn/JO/2025/guinee-jo-2025-12-sp-3.pdf",
+     "sha256": "571224959fd0cde1f1a8eccd508a8218b5a452d672282c9a6cc6d1998b73d849"
+    }
+   ]
+  },
+  {
+   "slug": "charte-de-la-transition",
+   "short": "Charte",
+   "title": "Charte de la Transition",
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-11.pdf",
+   "versions": [
+    {
+     "from": "2021-09-27",
+     "units": 85,
+     "source_url": "https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-11.pdf",
+     "sha256": "f4e5d8f0c8fb99818b9d56607622f49ea4b55afde2ff0c48101477938581ce59"
+    }
+   ]
+  }
+ ]
+}

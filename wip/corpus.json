@@ -21,9 +21,9 @@
    "name": "Journal officiel de la République de Guinée",
    "url": "https://journal-officiel.sgg.gov.gn",
    "retrieved": "2026-10-28",
-   "requests": 154,
+   "requests": 167,
    "licence": "Official texts; robots.txt allows all.",
-   "notes": "PDF issues with publisher text layer."
+   "notes": "PDF issues with publisher text layer (born-digital InDesign files, no scans). The JO index, the site's HTML copy of the Charte and the issues published after the Constitution (to n° 2026-07, 15 April 2026) were fetched on 2026-10-28/29 for verify.py only."
   }
  ],
  "laws": {
@@ -67,7 +67,7 @@
       "preambule": {
        "label": "Préambule",
        "kind": "preamble",
-       "text": "# Préambule\n1.1.2. SOUS-TITRE Il: DE L’ÉTAT...............................03\n1.2.2 SOUS- TITRE II. DES DEVOIRS.........................05 Il-DEUXIÈME PARTIE: DES INSTITUTIONS DE LA RÉPUBLIQUE.............................................................06\nDECRET D/2025/176/PRG/CNRD/SGG DU 26 SEPTEMBRE 2025, PORTANT PROMULGATION DE LA CONSTITUTION DE LA REPUBLIQUE DE GUINEE........19 CONSTITUTION\nPRÉAMBULE\nNous, Peuple de Guinée,\nAttachés à la libelle qui a détermine le vote pour le NON au Referendum du 28 Septembre 1958 et l’institution, le 02 Octobre de la même année, d’un État indépendant et souverain : la République de Guinée ;\nFiers de notre rôle historique dans la lutte contre la domination et l’expansion coloniales ainsi que dans les processus d’accession à l’indépendance des Peuples africains et la responsabilité que celui-ci nous inspire en termes de sauvegarde et de promotion de la liberté ;\nConscients de notre diversité ethnique, linguistique, culturelle et religieuse ;\nRésolus à promouvoir une Nation unie, solidaire, tolérante, juste, pacifique et prospère ;\nAttachés à la primauté et au respect de l’ordre constitutionnel ; Réaffirmons :\nNotre adhésion aux libertés et droits fondamentaux de l’être humain, consacrés dans l’ensemble des instruments juridiques sous-régionaux, régionaux et internationaux ratifiés par la République de Guinée ;\nNotre engagement à édifier un État de droit et de démocratie pluraliste dans lequel il est garanti aux citoyens le droit de s’opposer, par les voies légales, à l’action du Gouvernement et des pouvoirs publics ;\nLe rejet de toute forme anticonstitutionnelle d’accession, de maintien ou de transmission du pouvoir ainsi que de tout régime fondé sur la dictature, l’injustice, le régionalisme, l’ethnocentrisme et le népotisme ;\nNotre attachement à la fraternité, au dialogue, à la tolérance et aux moyens de règlement pacifique des conflits; Notre attachement à la promotion des relations d’amitié et de coopération avec tous les Peuples du monde sur la base des principes consacrés par la Charte des Nations Unies et l’Acte constitutif de l’Union africaine ;\nNotre attachement aux processus d’intégration sous-régionale et régionale ainsi qu’à la réalisation de l’objectif de l’unité africaine ;\nNotre détermination à promouvoir la bonne gouvernance et à lutter contre la corruption et les crimes économiques et financiers ;\nNotre souveraineté inaliénable sur toutes les ressources naturelles et les richesses nationales ;\nTirant les leçons de notre histoire ;\nApprouvons par référendum la présente Constitution dont le Préambule est partie intégrante.\n"
+       "text": "# Préambule\nNous, Peuple de Guinée,\nAttachés à la libelle qui a détermine le vote pour le NON au Referendum du 28 Septembre 1958 et l’institution, le 02 Octobre de la même année, d’un État indépendant et souverain : la République de Guinée ;\nFiers de notre rôle historique dans la lutte contre la domination et l’expansion coloniales ainsi que dans les processus d’accession à l’indépendance des Peuples africains et la responsabilité que celui-ci nous inspire en termes de sauvegarde et de promotion de la liberté ;\nConscients de notre diversité ethnique, linguistique, culturelle et religieuse ;\nRésolus à promouvoir une Nation unie, solidaire, tolérante, juste, pacifique et prospère ;\nAttachés à la primauté et au respect de l’ordre constitutionnel ;\nRéaffirmons :\nNotre adhésion aux libertés et droits fondamentaux de l’être humain, consacrés dans l’ensemble des instruments juridiques sous-régionaux, régionaux et internationaux ratifiés par la République de Guinée ;\nNotre engagement à édifier un État de droit et de démocratie pluraliste dans lequel il est garanti aux citoyens le droit de s’opposer, par les voies légales, à l’action du Gouvernement et des pouvoirs publics ;\nLe rejet de toute forme anticonstitutionnelle d’accession, de maintien ou de transmission du pouvoir ainsi que de tout régime fondé sur la dictature, l’injustice, le régionalisme, l’ethnocentrisme et le népotisme ;\nNotre attachement à la fraternité, au dialogue, à la tolérance et aux moyens de règlement pacifique des conflits; Notre attachement à la promotion des relations d’amitié et de coopération avec tous les Peuples du monde sur la base des principes consacrés par la Charte des Nations Unies et l’Acte constitutif de l’Union africaine ;\nNotre attachement aux processus d’intégration sous-régionale et régionale ainsi qu’à la réalisation de l’objectif de l’unité africaine ;\nNotre détermination à promouvoir la bonne gouvernance et à lutter contre la corruption et les crimes économiques et financiers ;\nNotre souveraineté inaliénable sur toutes les ressources naturelles et les richesses nationales ;\nTirant les leçons de notre histoire ;\nApprouvons par référendum la présente Constitution dont le Préambule est partie intégrante.\n"
       },
       "art-001": {
        "label": "Article 1er",
@@ -147,7 +147,7 @@
       "art-016": {
        "label": "Article 16",
        "kind": "art",
-       "text": "# Article 16\nToute personne a droit au respect de sa vie privée et familiale. L’intimité de la vie privée et le domicile sont inviolables.\nToute violation de domicile ou toute atteinte à l’intimité de la vie privée, quels qu’en soient les raisons et les moyens utilisés, est punie conformément à la loi.\nToute perquisition, toute visite domiciliaire ou toute autre atteinte à l’inviolabilité du domicile ne peut être prononcée que par le juge ou par toute autre autorité que la loi désigne et dans les formes qu’elle prescrit.\nLes interventions ayant pour objet de prévenir un péril grave et imminent, de parer à un danger commun ou de protéger la vie des personnes ne sont pas soumises\naux exigences de l’alinéa précédent, sous réserve des dispositions de l’article 8. Le secret de la correspondance et de la communication est inviolable.\nToute atteinte à l’inviolabilité du secret de la correspondance ou de la communication privée ou professionnelle ne peut être prononcée que par le juge ou par l’autorité que la loi désigne et dans les formes qu’elle prescrit.\n"
+       "text": "# Article 16\nToute personne a droit au respect de sa vie privée et familiale. L’intimité de la vie privée et le domicile sont inviolables.\nToute violation de domicile ou toute atteinte à l’intimité de la vie privée, quels qu’en soient les raisons et les moyens utilisés, est punie conformément à la loi.\nToute perquisition, toute visite domiciliaire ou toute autre atteinte à l’inviolabilité du domicile ne peut être prononcée que par le juge ou par toute autre autorité que la loi désigne et dans les formes qu’elle prescrit.\nLes interventions ayant pour objet de prévenir un péril grave et imminent, de parer à un danger commun ou de protéger la vie des personnes ne sont pas soumises aux exigences de l’alinéa précédent, sous réserve des dispositions de l’article 8. Le secret de la correspondance et de la communication est inviolable.\nToute atteinte à l’inviolabilité du secret de la correspondance ou de la communication privée ou professionnelle ne peut être prononcée que par le juge ou par l’autorité que la loi désigne et dans les formes qu’elle prescrit.\n"
       },
       "art-017": {
        "label": "Article 17",
@@ -232,7 +232,7 @@
       "art-033": {
        "label": "Article 33",
        "kind": "art",
-       "text": "# Article 33\nLes membres de la famille ont des devoirs réciproques.\nLes parents veillent à l’éducation, à la santé et au bien- être de leurs enfants.\nLes enfants doivent respect, honneur, obéissance, soins et assistance à leurs parents.\n"
+       "text": "# Article 33\nLes membres de la famille ont des devoirs réciproques.\nLes parents veillent à l’éducation, à la santé et au bien-être de leurs enfants.\nLes enfants doivent respect, honneur, obéissance, soins et assistance à leurs parents.\n"
       },
       "art-034": {
        "label": "Article 34",
@@ -322,7 +322,7 @@
       "art-051": {
        "label": "Article 51",
        "kind": "art",
-       "text": "# Article 51\nAvant la proclamation des résultats définitifs du premier tour, lorsque le décès ou l’empêchement définitif d’un candidat au premier tour, concerne l’un des deux candidats ayant recueilli le plus grand nombre de suffrages, la Cour constitutionnelle, obligatoirement saisie par l’Organe Technique Indépendant en charge de la Gestion des Élections, prononce, dans le délai de soixante- douze (72) heures, la reprise des opérations de vote.\n"
+       "text": "# Article 51\nAvant la proclamation des résultats définitifs du premier tour, lorsque le décès ou l’empêchement définitif d’un candidat au premier tour, concerne l’un des deux candidats ayant recueilli le plus grand nombre de suffrages, la Cour constitutionnelle, obligatoirement saisie par l’Organe Technique Indépendant en charge de la Gestion des Élections, prononce, dans le délai de soixante-douze (72) heures, la reprise des opérations de vote.\n"
       },
       "art-052": {
        "label": "Article 52",
@@ -367,7 +367,12 @@
       "art-060": {
        "label": "Article 60",
        "kind": "art",
-       "text": "# Article 60\nAu début de son mandat, le Président de la République dépose à la Cour constitutionnelle, dans un délai n’excédant pas dix (10) jours, à compter de son investiture, la déclaration écrite, sur l’honneur, de ses biens. À la fin de son mandat, il dépose à la Cour constitutionnelle, dans un délai n’excédant pas dix (10) jours, la déclaration écrite, sur l’honneur, de ses biens. Article 61. Les écarts entre la déclaration initiale et celle de la fin de mandat ou de fonctions doivent être dûment justifiés devant la Cour des Comptes.\n"
+       "text": "# Article 60\nAu début de son mandat, le Président de la République dépose à la Cour constitutionnelle, dans un délai n’excédant pas dix (10) jours, à compter de son investiture, la déclaration écrite, sur l’honneur, de ses biens. À la fin de son mandat, il dépose à la Cour constitutionnelle, dans un délai n’excédant pas dix (10) jours, la déclaration écrite, sur l’honneur, de ses biens.\n"
+      },
+      "art-061": {
+       "label": "Article 61",
+       "kind": "art",
+       "text": "# Article 61\nLes écarts entre la déclaration initiale et celle de la fin de mandat ou de fonctions doivent être dûment justifiés devant la Cour des Comptes.\n"
       },
       "art-062": {
        "label": "Article 62",
@@ -422,7 +427,7 @@
       "art-072": {
        "label": "Article 72",
        "kind": "art",
-       "text": "# Article 72\nEn cas de vacance de la fonction de Président de la République, l’intérim est assuré par le Président de l’Assemblée nationale ou, en cas d’empêchement de celui-ci, par le Président du Sénat. Le Président intérimaire ne peut se porter candidat à la prochaine élection présidentielle.\nLe Président de l’Assemblée nationale ou, en cas d’empêchement de celui-ci, le Président du Sénat prête immédiatement serment dès la constatation de la vacance de la fonction de Président de la République.\nLe Président de la République par intérim prête serment conformément à l’article 59.\nUne nouvelle élection présidentielle est alors organisée dans le délai de soixante\n(60) jours, au moins, et cent vingt (120) jours, au plus, à compter de sa prise de fonction, dans les conditions définies aux articles 46 à 56.\nLe Président de la République par intérim ne peut :\na. dissoudre l’Assemblée nationale ;\nb. recourir au référendum ;\nc. initier la révision de la Constitution ;\nd. exercer le droit de grâce ;\nc. nommer aux emplois civils et militaires.\n"
+       "text": "# Article 72\nEn cas de vacance de la fonction de Président de la République, l’intérim est assuré par le Président de l’Assemblée nationale ou, en cas d’empêchement de celui-ci, par le Président du Sénat. Le Président intérimaire ne peut se porter candidat à la prochaine élection présidentielle.\nLe Président de l’Assemblée nationale ou, en cas d’empêchement de celui-ci, le Président du Sénat prête immédiatement serment dès la constatation de la vacance de la fonction de Président de la République.\nLe Président de la République par intérim prête serment conformément à l’article 59.\nUne nouvelle élection présidentielle est alors organisée dans le délai de soixante (60) jours, au moins, et cent vingt (120) jours, au plus, à compter de sa prise de fonction, dans les conditions définies aux articles 46 à 56.\nLe Président de la République par intérim ne peut :\na. dissoudre l’Assemblée nationale ;\nb. recourir au référendum ;\nc. initier la révision de la Constitution ;\nd. exercer le droit de grâce ;\nc. nommer aux emplois civils et militaires.\n"
       },
       "art-073": {
        "label": "Article 73",
@@ -982,7 +987,7 @@
       "art-184": {
        "label": "Article 184",
        "kind": "art",
-       "text": "# Article 184\nLes Collectivités décentralisées ont pour mission d’œuvrer pour le développement économique, social, sanitaire, éducatif, culturel et sportif de leurs territoires respectifs.\nLes collectivités décentralisées bénéficient d’une part des ressources financières de l’Etat, proportionnelle aux compétences qui leur sont transférées, sur la base d’une péréquation définie par la loi.\nTout transfert de compétences de l’État aux collectivités décentralisées doit être accompagné de l’attribution de ressources équivalentes à celles qui étaient consacrées à leur exercice. Toute création ou extension de compétences ayant pour conséquence d’augmenter les dépenses des collectivités décentralisées est accompagnée de ressources déterminées par la loi.\nSÉCURITÉ\n"
+       "text": "# Article 184\nLes Collectivités décentralisées ont pour mission d’œuvrer pour le développement économique, social, sanitaire, éducatif, culturel et sportif de leurs territoires respectifs.\nLes collectivités décentralisées bénéficient d’une part des ressources financières de l’Etat, proportionnelle aux compétences qui leur sont transférées, sur la base d’une péréquation définie par la loi.\nTout transfert de compétences de l’État aux collectivités décentralisées doit être accompagné de l’attribution de ressources équivalentes à celles qui étaient consacrées à leur exercice. Toute création ou extension de compétences ayant pour conséquence d’augmenter les dépenses des collectivités décentralisées est accompagnée de ressources déterminées par la loi.\n"
       },
       "art-185": {
        "label": "Article 185",
@@ -1080,27 +1085,27 @@
       "preambule": {
        "label": "Préambule",
        "kind": "preamble",
-       "text": "# Préambule\nNous, Membres des Forces de Défense et de Sécurité de la République de Guinée, regroupés au sein du Comité National du Rassemblement pour le Développement en concertation avec les forces vives de la Nation Guinéenne :\n• Inspirés par la volonté et l’engagement partagé de changement pour le bien-être et le vivre ensemble du peuple souverain de Guinée, ayant conduit à la prise effective du pouvoir par l’Armée Guinéenne, sous la direction du Comité National du Rassemble- ment pour le Développement, le 5 septembre 2021 ;\n• Considérant l’adhésion populaire qui en a résulté ;\n• Considérant les conclusions des concertations na- tionales inclusives, tenues à Conakry du 14 au 23 Septembre 2021 au Palais du Peuple, avec les re- présentants des partis politiques, des organisations de la société civile, des confessions religieuses, des coordinations régionales, des organisations de femmes et de jeunes, des guinéens de l’étranger, des centrales et fédérations syndicales, du secteur informel, des organisations patronales, des organi- sations et ordres socioprofessionnels, des missions diplomatiques et organisations internationales, des chambres consulaires, des organismes de presse, des sociétés minières de la République de Guinée ;\n• Prenant acte des propositions et recommandations des différentes composantes des forces vives de la Nation ;\n• Soucieux de maintenir la cohésion nationale, de consolider les bases de notre démocratie et de pro- mouvoir le développement et la prospérité des gui- néennes et guinéens ;\n• Reconnaissant que les crises politiques cycliques qui ont affligé la République de Guinée avant et après le changement unilatéral de la Constitution pour un troi- sième mandat, ont fissuré l’unité nationale, décrédibili- sé les Institutions et ralenti le développement du pays ;\n• Conscients de la nécessité de bâtir ensemble d’une manière durable les fondamentaux d’une République démocratique stable, unie dans sa diversité et respec- tueuse des Droits de l’Homme et des libertés publiques ;\n• Engagés à construire un véritable Etat de droit conforme aux profondes aspirations du peuple et tirant les leçons de notre expérience politique, notamment des crises ré- currentes et souvent violentes qu’a connues notre pays suite aux différents scrutins ces dernières années ;\n• Considérant les cas de violations répétées des Droits de l’Homme et des libertés individuelles et collectives, qui ont endeuillé des familles et cau- sé des handicaps à des milliers de femmes et de jeunes guinéens en particulier ;\n• Réaffirmant notre attachement aux valeurs et prin- cipes démocratiques tels qu’inscrits dans la Charte des Nations-Unies, la Déclaration Universelle des Droits de l’Homme du 10 Décembre 1948, la Charte Africaine de la Démocratie, des Elections et de la Gouvernance du 30 Janvier 2007 de l’Union Afri- caine, ainsi que le Protocole A/SP1/12/01 du 21 Dé- cembre 2000 de la CEDEAO sur la démocratie, la bonne gouvernance et les élections ;\n• Considérant la volonté résolue du Comité National du Rassemblement pour le Développement de re- fonder I’ Etat, pour plus de sécurité juridique fondée sur l’équité et la justice, dans un esprit d’inclusivité ;\n• Considérant la détermination du Comité National du Rassemblement pour le Développement de combattre toute forme de marginalisation et de repli identitaire, de prévenir et réprimer la corruption, les crimes écono- miques et financiers, l’impunité, la politisation de l’Admi- nistration publique et l’instrumentalisation de la Justice ;\n• Considérant le comportement patriotique des Forces de Défense et de Sécurité assurant la quiétude so- ciale et la continuité de l’Etat ;\n• Considérant que l’intérêt supérieur de la Nation ré- side dans le maintien de la paix, la sécurité collective, le bon voisinage dans la sous-région, qui sont des préalables à l’émergence, à la stabilité, à l’intégration et à la coopération comme moyens de rassemble- ment et de consolidation de la démocratie ;\n• Considérant la nécessité d’une Transition démocra- tique inclusive et impartiale ;\nApprouvons et adoptons la présente Charte de la Transition dont le préambule est partie intégrante.\n"
+       "text": "# Préambule\nNous, Membres des Forces de Défense et de Sécurité de la République de Guinée, regroupés au sein du Comité National du Rassemblement pour le Développement en concertation avec les forces vives de la Nation Guinéenne :\n• Inspirés par la volonté et l’engagement partagé de changement pour le bien-être et le vivre ensemble du peuple souverain de Guinée, ayant conduit à la prise effective du pouvoir par l’Armée Guinéenne, sous la direction du Comité National du Rassemblement pour le Développement, le 5 septembre 2021 ;\n• Considérant l’adhésion populaire qui en a résulté ;\n• Considérant les conclusions des concertations nationales inclusives, tenues à Conakry du 14 au 23 Septembre 2021 au Palais du Peuple, avec les représentants des partis politiques, des organisations de la société civile, des confessions religieuses, des coordinations régionales, des organisations de femmes et de jeunes, des guinéens de l’étranger, des centrales et fédérations syndicales, du secteur informel, des organisations patronales, des organisations et ordres socioprofessionnels, des missions diplomatiques et organisations internationales, des chambres consulaires, des organismes de presse, des sociétés minières de la République de Guinée ;\n• Prenant acte des propositions et recommandations des différentes composantes des forces vives de la Nation ;\n• Soucieux de maintenir la cohésion nationale, de consolider les bases de notre démocratie et de promouvoir le développement et la prospérité des guinéennes et guinéens ;\n• Reconnaissant que les crises politiques cycliques qui ont affligé la République de Guinée avant et après le changement unilatéral de la Constitution pour un troisième mandat, ont fissuré l’unité nationale, décrédibilisé les Institutions et ralenti le développement du pays ;\n• Conscients de la nécessité de bâtir ensemble d’une manière durable les fondamentaux d’une République démocratique stable, unie dans sa diversité et respectueuse des Droits de l’Homme et des libertés publiques ;\n• Engagés à construire un véritable Etat de droit conforme aux profondes aspirations du peuple et tirant les leçons de notre expérience politique, notamment des crises récurrentes et souvent violentes qu’a connues notre pays suite aux différents scrutins ces dernières années ;\n• Considérant les cas de violations répétées des Droits de l’Homme et des libertés individuelles et collectives, qui ont endeuillé des familles et causé des handicaps à des milliers de femmes et de jeunes guinéens en particulier ;\n• Réaffirmant notre attachement aux valeurs et principes démocratiques tels qu’inscrits dans la Charte des Nations-Unies, la Déclaration Universelle des Droits de l’Homme du 10 Décembre 1948, la Charte Africaine de la Démocratie, des Elections et de la Gouvernance du 30 Janvier 2007 de l’Union Africaine, ainsi que le Protocole A/SP1/12/01 du 21 Décembre 2000 de la CEDEAO sur la démocratie, la bonne gouvernance et les élections ;\n• Considérant la volonté résolue du Comité National du Rassemblement pour le Développement de refonder I’ Etat, pour plus de sécurité juridique fondée sur l’équité et la justice, dans un esprit d’inclusivité ;\n• Considérant la détermination du Comité National du Rassemblement pour le Développement de combattre toute forme de marginalisation et de repli identitaire, de prévenir et réprimer la corruption, les crimes économiques et financiers, l’impunité, la politisation de l’Administration publique et l’instrumentalisation de la Justice ;\n• Considérant le comportement patriotique des Forces de Défense et de Sécurité assurant la quiétude sociale et la continuité de l’Etat ;\n• Considérant que l’intérêt supérieur de la Nation réside dans le maintien de la paix, la sécurité collective, le bon voisinage dans la sous-région, qui sont des préalables à l’émergence, à la stabilité, à l’intégration et à la coopération comme moyens de rassemblement et de consolidation de la démocratie ;\n• Considérant la nécessité d’une Transition démocratique inclusive et impartiale ;\nApprouvons et adoptons la présente Charte de la Transition dont le préambule est partie intégrante.\n"
       },
       "art-001": {
        "label": "Article 1er",
        "kind": "art",
-       "text": "# Article 1er\nUne remise totale de peine est accordée aux détenus ci-après :\nN°\nPRENOMS ET NOM\nJURIDICTIONS\nMANDATS DE DEPOT 1\nMamadou Alpha BARRY\nTP1 Dixinn\n16-04-2018 2\nMoussa MARA\nTPI 3 Mafanco\n06-04-2021 3\nYoussouf TOURE\nTPI 2 Dixinn\n06-10-2020 4\nAboubacar Bikinda\nTPI 2 Dixinn\n07-06-2021 5\nMamoudou DIALLO\nTPI 2 Dixinn\n10-08-2021 6\nMalick CAMARA\nTPI 3 Mafanco\n11-05-2021 7\nAmadou CONDE\nTPI 2 Dixinn\n12-03-2021 8\nMohamed S'YLLA\nTPI 3 Mafanco\n12-10-2020 9\nMohamed CAMARA\nTPI 3 Mafanco\n12-10-2020 10\nAbdoulaye CAMARA\nTPI 3 Mafanco\n12-10-2020 11\nAlpha CISSE\nTPI 3 Mafanco\n21-10-2020 12\nMamadou TOURE\nTPI 3 Mafanco\n22-10-2020 13\nMamadou Saliou BAH\nTPI 3 Mafanco\n26-10-2020 14\nMamadou Bobo BARRY\nTPI 2 Dixinn\n29-04-2021 15\nlbrahima CAMARA\nTPI 3 Mafanco\n30-10-2020 16\nMohamed DIABY\nTP1 2 Dixinn\n01-06-2021 17\nOusmane SOUARE\nTPI 3 Mafanco\n04-11-2020 18\nAmara FOFANA\nTPI 2 Dixinn\n05-01-2021 19\nN'Faly TRAORE\nTPI 2 Dixinn\n06-04-2021 20\nMohamed Lamine TOURE\nTPI 3 Mafanco\n08-11-2019 21\nMohamed KEITA\nTPI 3 Mafanco\n12-04-2021 22\nAbdoulaye DIALLO\nTPI 3 Mafanco\n13-11-2020 23\nMamadou Alpha DIALLO\nTPI 2 Dixinn\n15-01-2021 INFRACTIONS\nPEINES\nDATES\nINFLIGEES\nD’EXPIRAON DES PEINES CBV\n4 ans\n16-04-2021\nVol\n6 mois\n06-10-2021\nTentative de vol\n1 an\n06-10-2021\nVol\n4 mois\n07-10-202]\nVol de téléphone\n2 mois\n10-10-2021\nCBV\n5 mois\n11-10-2021\nVol de téléphone\n7 mois\n12-10-2021\nVol\n1 an\n12-10-2021\nVol\n1 an\n12-10-2021\nRecel\n1 an\n12-10-2021\nVol\n1 an\n21-10-2021\nVol\n1 an\n22-10-2021\nParticipation délictueuse à un\n1 an\n26-10-202\nattroupement, injures publics,\ndestruction d’édifice public et privé\nVol de Numéraire\n6 mois\n29-10-2021\nVol\n1 an\n30-10-2021\nTrafic illicite des Migrants\n5 mois\n01-11-2021\nVol\n1 an\n04-11- 2021\nVol d'objets divers\n10 mois\n05-11-2021\nVol de téléphone\n7 mois\n06-11-2021\nVol\n2 ans\n08-11-2021\nVol et menaces de mort\n7 mois\n12-11-2021\nVol\n1 an\n13-11-2021\nInjures publics et menaces\n10 mois\n15-11-2021\n"
+       "text": "# Article 1er\nLa présente Charte consacre les valeurs et principes ci-dessous qui doivent guider la transition, ses organes et l’ensemble des personnalités appelées à la conduire :\n• Le pardon et la réconciliation ;\n• Le patriotisme et la loyauté ;\n• L’inclusion et la fraternité ;\n• La justice et la responsabilité ;\n• L’impartialité et la neutralité ;\n• La tolérance et le dialogue ;\n• La probité et la dignité ;\n• La discipline et le civisme ;\n• Le mérite et l’équité.\n"
       },
       "art-002": {
        "label": "Article 2",
        "kind": "art",
-       "text": "# Article 2\nLes missions de la Transition consacrées par la présente Charte sont entre autres :\n• La sauvegarde de l’intégrité du territoire national et la sécurité des personnes et de leurs biens ;\n• La refondation de l’Etat pour bâtir des institutions fortes, crédibles et légitimes garantissant un Etat de droit, un processus démocratique inclusif, apaisé et durable, gage d’un développement social, écono- mique et culturel effectif ;\n• L’engagement de réformes majeures sur les plans économique, politique, électoral et administratif ;\n• Le renforcement de la cohésion nationale et la pour- suite du processus de réconciliation nationale ;\n• Le renforcement de l’indépendance de la Justice et la lutte contre l’impunité ;\n• La promotion et la protection des Droits de l’Homme et des libertés publiques ;\n• L’instauration d’une culture de bonne gouvemance et de citoyenneté responsable ;\n• L’élaboration d’une nouvelle Constitution et son adoption par référendum ;\n• L’organisation des élections locales et nationales libres, démocratiques et transparentes.\n"
+       "text": "# Article 2\nLes missions de la Transition consacrées par la présente Charte sont entre autres :\n• La sauvegarde de l’intégrité du territoire national et la sécurité des personnes et de leurs biens ;\n• La refondation de l’Etat pour bâtir des institutions fortes, crédibles et légitimes garantissant un Etat de droit, un processus démocratique inclusif, apaisé et durable, gage d’un développement social, économique et culturel effectif ;\n• L’engagement de réformes majeures sur les plans économique, politique, électoral et administratif ;\n• Le renforcement de la cohésion nationale et la poursuite du processus de réconciliation nationale ;\n• Le renforcement de l’indépendance de la Justice et la lutte contre l’impunité ;\n• La promotion et la protection des Droits de l’Homme et des libertés publiques ;\n• L’instauration d’une culture de bonne gouvemance et de citoyenneté responsable ;\n• L’élaboration d’une nouvelle Constitution et son adoption par référendum ;\n• L’organisation des élections locales et nationales libres, démocratiques et transparentes.\n"
       },
       "art-003": {
        "label": "Article 3",
        "kind": "art",
-       "text": "# Article 3\nLa Guinée est une République unitaire et indi- visible, souveraine, laïque, sociale et démocratique.\n"
+       "text": "# Article 3\nLa Guinée est une République unitaire et indivisible, souveraine, laïque, sociale et démocratique.\n"
       },
       "art-004": {
        "label": "Article 4",
        "kind": "art",
-       "text": "# Article 4\nL’emblème national est le drapeau tricolore, Rouge, Jaune et Vert de bandes verticales et de dimen- sions égales.\nL’hymne national est « Liberté ».\nLa devise de la République est « Travail-Justice-Solidarité ». Le sceau et les armoiries de la République sont ceux déterminés par la Loi.\n"
+       "text": "# Article 4\nL’emblème national est le drapeau tricolore, Rouge, Jaune et Vert de bandes verticales et de dimensions égales.\nL’hymne national est « Liberté ».\nLa devise de la République est « Travail-Justice-Solidarité ». Le sceau et les armoiries de la République sont ceux déterminés par la Loi.\n"
       },
       "art-005": {
        "label": "Article 5",
@@ -1110,17 +1115,17 @@
       "art-006": {
        "label": "Article 6",
        "kind": "art",
-       "text": "# Article 6\nLes partis politiques concourent à l’expression du suffrage.\n• Ils se constituent librement et exercent leurs activi- tés dans le respect des Lois de la République ;\n• Ils doivent incarner la diversité nationale ;\n• Ils ont le devoir d’éduquer leurs militants et de pro- mouvoir l’unité nationale et la paix sociale.\n"
+       "text": "# Article 6\nLes partis politiques concourent à l’expression du suffrage.\n• Ils se constituent librement et exercent leurs activités dans le respect des Lois de la République ;\n• Ils doivent incarner la diversité nationale ;\n• Ils ont le devoir d’éduquer leurs militants et de promouvoir l’unité nationale et la paix sociale.\n"
       },
       "art-007": {
        "label": "Article 7",
        "kind": "art",
-       "text": "# Article 7\nTout acte portant atteinte à la forme républi- caine de I ‘Etat, à la laïcité de l’Etat, à la souveraineté, à l’indépendance et à l’unité nationale est un crime de haute trahison et puni comme tel par la Loi.\nDROITS FONDAMENTAUX\n"
+       "text": "# Article 7\nTout acte portant atteinte à la forme républicaine de I ‘Etat, à la laïcité de l’Etat, à la souveraineté, à l’indépendance et à l’unité nationale est un crime de haute trahison et puni comme tel par la Loi.\n"
       },
       "art-008": {
        "label": "Article 8",
        "kind": "art",
-       "text": "# Article 8\nLes libertés et droits fondamentaux sont reconnus et leur exercice est garanti aux citoyens dans les conditions et les formes prévues par la Loi. Aucune situation d’exception ou d’urgence ne doit justi- fier les violations des droits humains.\n"
+       "text": "# Article 8\nLes libertés et droits fondamentaux sont reconnus et leur exercice est garanti aux citoyens dans les conditions et les formes prévues par la Loi. Aucune situation d’exception ou d’urgence ne doit justifier les violations des droits humains.\n"
       },
       "art-009": {
        "label": "Article 9",
@@ -1130,7 +1135,7 @@
       "art-010": {
        "label": "Article 10",
        "kind": "art",
-       "text": "# Article 10\nLa personne humaine est sacrée. Toute per- sonne a droit au respect de son intégrité physique et mo- rale, de son identité et à la protection de son intimité et de sa vie privée.\nTout citoyen a droit au libre développement de sa per- sonne, dans le respect du droit d’autrui, des bonnes mœurs et de l’ordre public.\n"
+       "text": "# Article 10\nLa personne humaine est sacrée. Toute personne a droit au respect de son intégrité physique et morale, de son identité et à la protection de son intimité et de sa vie privée.\nTout citoyen a droit au libre développement de sa personne, dans le respect du droit d’autrui, des bonnes mœurs et de l’ordre public.\n"
       },
       "art-011": {
        "label": "Article 11",
@@ -1140,7 +1145,7 @@
       "art-012": {
        "label": "Article 12",
        "kind": "art",
-       "text": "# Article 12\nNul ne peut être arrêté, inculpé, ni détenu que dans les cas prévus par la Loi promulguée antérieu- rement à la commission de l’infraction qu’elle réprime. Les arrestations et détentions arbitraires sont interdites par la Loi.\nLe droit à l’assistance d’un avocat est reconnu dès l’instant de l’interpellation ou de la détention.\n"
+       "text": "# Article 12\nNul ne peut être arrêté, inculpé, ni détenu que dans les cas prévus par la Loi promulguée antérieurement à la commission de l’infraction qu’elle réprime. Les arrestations et détentions arbitraires sont interdites par la Loi.\nLe droit à l’assistance d’un avocat est reconnu dès l’instant de l’interpellation ou de la détention.\n"
       },
       "art-013": {
        "label": "Article 13",
@@ -1150,17 +1155,17 @@
       "art-014": {
        "label": "Article 14",
        "kind": "art",
-       "text": "# Article 14\nLa peine est personnelle. Aucun individu ne peut être rendu responsable et poursuivi de quelque fa- çon ou pour quelque motif que ce soit pour un fait non commis par lui-même.\n"
+       "text": "# Article 14\nLa peine est personnelle. Aucun individu ne peut être rendu responsable et poursuivi de quelque façon ou pour quelque motif que ce soit pour un fait non commis par lui-même.\n"
       },
       "art-015": {
        "label": "Article 15",
        "kind": "art",
-       "text": "# Article 15\nLa Loi punit quiconque par un acte de discrimi- nation raciale, ethnique, religieuse, par un acte de propa- gande régionaliste ou communautariste, ou par tout autre acte qui porte atteinte à l’unité nationale, à la sécurité de l’Etat, à l’intégrité du territoire de la République, ou au bon fonctionnement démocratique des Institutions.\n"
+       "text": "# Article 15\nLa Loi punit quiconque par un acte de discrimination raciale, ethnique, religieuse, par un acte de propagande régionaliste ou communautariste, ou par tout autre acte qui porte atteinte à l’unité nationale, à la sécurité de l’Etat, à l’intégrité du territoire de la République, ou au bon fonctionnement démocratique des Institutions.\n"
       },
       "art-016": {
        "label": "Article 16",
        "kind": "art",
-       "text": "# Article 16\nTout citoyen a le droit de fixer librement son domicile ou sa résidence en un lieu quelconque du terri- toire national et d’y exercer toute activité conformément aux dispositions de la Loi.\n"
+       "text": "# Article 16\nTout citoyen a le droit de fixer librement son domicile ou sa résidence en un lieu quelconque du territoire national et d’y exercer toute activité conformément aux dispositions de la Loi.\n"
       },
       "art-017": {
        "label": "Article 17",
@@ -1180,7 +1185,7 @@
       "art-020": {
        "label": "Article 20",
        "kind": "art",
-       "text": "# Article 20\nTout individu a droit à la création, à la protection et à la jouissance de ses oeuvres intellec- tuelles et artistiques.\n"
+       "text": "# Article 20\nTout individu a droit à la création, à la protection et à la jouissance de ses oeuvres intellectuelles et artistiques.\n"
       },
       "art-021": {
        "label": "Article 21",
@@ -1205,7 +1210,7 @@
       "art-025": {
        "label": "Article 25",
        "kind": "art",
-       "text": "# Article 25\nLe mariage et la famille constituent le fon- dement naturel de la vie en société. Ils sont protégés et promus par l’Etat.\n"
+       "text": "# Article 25\nLe mariage et la famille constituent le fondement naturel de la vie en société. Ils sont protégés et promus par l’Etat.\n"
       },
       "art-026": {
        "label": "Article 26",
@@ -1220,7 +1225,7 @@
       "art-028": {
        "label": "Article 28",
        "kind": "art",
-       "text": "# Article 28\nLe droit de propriété est garanti. Nul ne peut être exproprié que pour cause d’utilité publique décla- rée, dans les conditions et formes prescrites par la Loi, suivant une compensation préalable et juste.\n"
+       "text": "# Article 28\nLe droit de propriété est garanti. Nul ne peut être exproprié que pour cause d’utilité publique déclarée, dans les conditions et formes prescrites par la Loi, suivant une compensation préalable et juste.\n"
       },
       "art-029": {
        "label": "Article 29",
@@ -1235,7 +1240,7 @@
       "art-031": {
        "label": "Article 31",
        "kind": "art",
-       "text": "# Article 31\nLe respect et la défense du patrimoine natio- nal et des biens publics sont un devoir pour tout citoyen.\n"
+       "text": "# Article 31\nLe respect et la défense du patrimoine national et des biens publics sont un devoir pour tout citoyen.\n"
       },
       "art-032": {
        "label": "Article 32",
@@ -1255,37 +1260,37 @@
       "art-035": {
        "label": "Article 35",
        "kind": "art",
-       "text": "# Article 35\nLe droit syndical est garanti à tous les travail- leurs, à l’exception des militaires et paramilitaires.\nLes travailleurs s’organisent librement en syndicats et exercent leurs activités dans le respect des lois en vigueur. Le droit de grève est garanti, il s’exerce conformément à la Loi.\n"
+       "text": "# Article 35\nLe droit syndical est garanti à tous les travailleurs, à l’exception des militaires et paramilitaires.\nLes travailleurs s’organisent librement en syndicats et exercent leurs activités dans le respect des lois en vigueur. Le droit de grève est garanti, il s’exerce conformément à la Loi.\n"
       },
       "art-036": {
        "label": "Article 36",
        "kind": "art",
-       "text": "# Article 36\nLes organes de la Transition sont :\n• Le Comité National du Rassemblement pour le Dé- veloppement (CNRD) ;\n• Le Président de la Transition ;\n• Le Gouvernement de la Transition ;\n• Le Conseil National de la Transition.\n"
+       "text": "# Article 36\nLes organes de la Transition sont :\n• Le Comité National du Rassemblement pour le Développement (CNRD) ;\n• Le Président de la Transition ;\n• Le Gouvernement de la Transition ;\n• Le Conseil National de la Transition.\n"
       },
       "art-037": {
        "label": "Article 37",
        "kind": "art",
-       "text": "# Article 37\nLe Comité National du Rassemblement pour le Développement est l’organe central de définition et d’orientation stratégique de la politique économique, so- ciale, culturelle et de développement du pays.\nIl est garant de la sécurité et de la cohésion nationales, de la stabilité et de la paix.\nIl est composé des éléments des forces de défense et de sécurité de la République de Guinée (armée, gendar- merie, police, protection civile, douane et conservateurs de la nature).\n"
+       "text": "# Article 37\nLe Comité National du Rassemblement pour le Développement est l’organe central de définition et d’orientation stratégique de la politique économique, sociale, culturelle et de développement du pays.\nIl est garant de la sécurité et de la cohésion nationales, de la stabilité et de la paix.\nIl est composé des éléments des forces de défense et de sécurité de la République de Guinée (armée, gendarmerie, police, protection civile, douane et conservateurs de la nature).\n"
       },
       "art-038": {
        "label": "Article 38",
        "kind": "art",
-       "text": "# Article 38\nLe Président de la Transition est le Président du Comité National du Rassemblement pour le Dévelop- pement et à ce titre, il:\n• Est le Chef de l’État et Chef Suprême des Armées ;\n• Est le Chef de l’Administration ;\n• Veille au respect de la présente Charte de la Transition;\n• Détermine la politique de la Nation et assure par son arbitrage le bon fonctionnement des pouvoirs pu- blics ainsi que la continuité de l’État ;\n• Dispose du pouvoir réglementaire et peut prendre des ordonnances.\n"
+       "text": "# Article 38\nLe Président de la Transition est le Président du Comité National du Rassemblement pour le Développement et à ce titre, il:\n• Est le Chef de l’État et Chef Suprême des Armées ;\n• Est le Chef de l’Administration ;\n• Veille au respect de la présente Charte de la Transition;\n• Détermine la politique de la Nation et assure par son arbitrage le bon fonctionnement des pouvoirs publics ainsi que la continuité de l’État ;\n• Dispose du pouvoir réglementaire et peut prendre des ordonnances.\n"
       },
       "art-039": {
        "label": "Article 39",
        "kind": "art",
-       "text": "# Article 39\nLe Président de la Transition est le garant de l’unité et de l’indépendance nationale, de la justice sociale, des droits et libertés, de l’intégrité territoriale, du respect des traités et accords internationaux dont la Ré- publique de Guinée est partie.\n"
+       "text": "# Article 39\nLe Président de la Transition est le garant de l’unité et de l’indépendance nationale, de la justice sociale, des droits et libertés, de l’intégrité territoriale, du respect des traités et accords internationaux dont la République de Guinée est partie.\n"
       },
       "art-040": {
        "label": "Article 40",
        "kind": "art",
-       "text": "# Article 40\nLe Président de la Transition, préside le Co- mité National du Rassemblement pour le Développe- ment, le Conseil des ministres et le Conseil Supérieur de la Défense Nationale.\n"
+       "text": "# Article 40\nLe Président de la Transition, préside le Comité National du Rassemblement pour le Développement, le Conseil des ministres et le Conseil Supérieur de la Défense Nationale.\n"
       },
       "art-041": {
        "label": "Article 41",
        "kind": "art",
-       "text": "# Article 41\nLe Président de la Transition promulgue les lois adoptées par le Conseil National de la Transition dans les quinze (15) jours calendaires à compter du hui- tième jour franc de leur transmission.\n"
+       "text": "# Article 41\nLe Président de la Transition promulgue les lois adoptées par le Conseil National de la Transition dans les quinze (15) jours calendaires à compter du huitième jour franc de leur transmission.\n"
       },
       "art-042": {
        "label": "Article 42",
@@ -1300,7 +1305,7 @@
       "art-044": {
        "label": "Article 44",
        "kind": "art",
-       "text": "# Article 44\nLe Président de la Transition nomme par dé- cret aux fonctions civiles et militaires de l’Etat.\n"
+       "text": "# Article 44\nLe Président de la Transition nomme par décret aux fonctions civiles et militaires de l’Etat.\n"
       },
       "art-045": {
        "label": "Article 45",
@@ -1310,17 +1315,17 @@
       "art-046": {
        "label": "Article 46",
        "kind": "art",
-       "text": "# Article 46\nLe Président et les membres du Comité Na- tional du Rassemblement pour le Développement ne peuvent faire acte de candidature ni aux élections natio- nales ni aux élections locales qui seront organisées pour marquer la fin de la Transition.\nLa présente disposition n’est susceptible d’aucune révision.\n"
+       "text": "# Article 46\nLe Président et les membres du Comité National du Rassemblement pour le Développement ne peuvent faire acte de candidature ni aux élections nationales ni aux élections locales qui seront organisées pour marquer la fin de la Transition.\nLa présente disposition n’est susceptible d’aucune révision.\n"
       },
       "art-047": {
        "label": "Article 47",
        "kind": "art",
-       "text": "# Article 47\nAvant son installation, le Président de la Transi- tion prête le serment ci-dessous, devant la Cour Suprême: « Moi....................., Président de la Transition, je jure devant le Peuple de Guinée de préserver en toute loyauté la souveraineté nationale, de respec- ter et de faire respecter les dispositions de la Charte de la Transition, la dignité humaine, les lois et règle- ments de la République, de remplir mes fonctions dans l’intérêt supérieur de la Nation, de consolider les acquis démocratiques, de garantir l’indépen- dance de la patrie et l’intégrité du territoire national. Je m’engage solennellement, et sur mon honneur, à col- laborer avec les organes de la Transition pour la réalisa- tion et la préservation de la cohésion nationale. En cas de parjure, que je subisse les rigueurs de la Loi ; je le jure ».\n"
+       "text": "# Article 47\nAvant son installation, le Président de la Transition prête le serment ci-dessous, devant la Cour Suprême: « Moi....................., Président de la Transition, je jure devant le Peuple de Guinée de préserver en toute loyauté la souveraineté nationale, de respecter et de faire respecter les dispositions de la Charte de la Transition, la dignité humaine, les lois et règlements de la République, de remplir mes fonctions dans l’intérêt supérieur de la Nation, de consolider les acquis démocratiques, de garantir l’indépendance de la patrie et l’intégrité du territoire national. Je m’engage solennellement, et sur mon honneur, à collaborer avec les organes de la Transition pour la réalisation et la préservation de la cohésion nationale. En cas de parjure, que je subisse les rigueurs de la Loi ; je le jure ».\n"
       },
       "art-048": {
        "label": "Article 48",
        "kind": "art",
-       "text": "# Article 48\nLe Gouvernement de la Transition est com- posé du Premier Ministre et des Ministres.\n"
+       "text": "# Article 48\nLe Gouvernement de la Transition est composé du Premier Ministre et des Ministres.\n"
       },
       "art-049": {
        "label": "Article 49",
@@ -1330,22 +1335,22 @@
       "art-050": {
        "label": "Article 50",
        "kind": "art",
-       "text": "# Article 50\nLe Premier Ministre est le Chef du Gouverne- ment. Il est nommé par décret du Président de la Transi- tion et peut être révoqué par lui.\nIl est responsable devant le Président de la Transition.\n"
+       "text": "# Article 50\nLe Premier Ministre est le Chef du Gouvernement. Il est nommé par décret du Président de la Transition et peut être révoqué par lui.\nIl est responsable devant le Président de la Transition.\n"
       },
       "art-051": {
        "label": "Article 51",
        "kind": "art",
-       "text": "# Article 51\nLe Premier Ministre dirige, coordonne et anime l’action gouvernementale.\nIl dispose de l’Administration. Il veille au bon fonctionne- ment des services publics, à la bonne gestion de l’éco- nomie nationale, des finances publiques et domaines de l’Etat, des entreprises et des organismes publics.\nIl assure l’exécution des lois et règlements.\nIl veille à l’application des décisions de justice.\n"
+       "text": "# Article 51\nLe Premier Ministre dirige, coordonne et anime l’action gouvernementale.\nIl dispose de l’Administration. Il veille au bon fonctionnement des services publics, à la bonne gestion de l’économie nationale, des finances publiques et domaines de l’Etat, des entreprises et des organismes publics.\nIl assure l’exécution des lois et règlements.\nIl veille à l’application des décisions de justice.\n"
       },
       "art-052": {
        "label": "Article 52",
        "kind": "art",
-       "text": "# Article 52\nLe Premier Ministre doit, dans un délai n’ex- cédant pas trente (30) jours à compter de la date de no- mination des membres du gouvernement, soumettre pour approbation au Président de la Transition le plan d’actions de la feuille de route du Gouvernement de transition.\n"
+       "text": "# Article 52\nLe Premier Ministre doit, dans un délai n’excédant pas trente (30) jours à compter de la date de nomination des membres du gouvernement, soumettre pour approbation au Président de la Transition le plan d’actions de la feuille de route du Gouvernement de transition.\n"
       },
       "art-053": {
        "label": "Article 53",
        "kind": "art",
-       "text": "# Article 53\nLes membres du Gouvernement sont nom- més par décret du Président de la Transition sur propo- sition du Premier Ministre et peuvent être révoqués par le Président.\n"
+       "text": "# Article 53\nLes membres du Gouvernement sont nommés par décret du Président de la Transition sur proposition du Premier Ministre et peuvent être révoqués par le Président.\n"
       },
       "art-054": {
        "label": "Article 54",
@@ -1355,42 +1360,42 @@
       "art-055": {
        "label": "Article 55",
        "kind": "art",
-       "text": "# Article 55\nLe Premier Ministre et les membres du Gou- vernement ne peuvent faire acte de candidature aux élections locales et nationales qui seront organisées pour marquer la fin de la Transition.\nLa présente disposition n’est susceptible d’aucune révision.\nTRANSITION\n"
+       "text": "# Article 55\nLe Premier Ministre et les membres du Gouvernement ne peuvent faire acte de candidature aux élections locales et nationales qui seront organisées pour marquer la fin de la Transition.\nLa présente disposition n’est susceptible d’aucune révision.\n"
       },
       "art-056": {
        "label": "Article 56",
        "kind": "art",
-       "text": "# Article 56\nLe Conseil National de la Transition est l’or- gane législatif de la Transition. Il exerce les prérogatives définies par la présente Charte.\n"
+       "text": "# Article 56\nLe Conseil National de la Transition est l’organe législatif de la Transition. Il exerce les prérogatives définies par la présente Charte.\n"
       },
       "art-057": {
        "label": "Article 57",
        "kind": "art",
-       "text": "# Article 57\nLe Conseil National de la Transition a pour missions:\n• d’élaborer et soumettre pour adoption, par referen- dum le projet de Constitution ;\n• d’élaborer, examiner et adopter les textes législatifs ;\n• de suivre la mise en œuvre de la feuille de route de la Transition ;\n• de contribuer à la défense et à la promotion des Droits de l’Homme et des libertés publiques ;\n• de contribuer à la réconciliation nationale.\n"
+       "text": "# Article 57\nLe Conseil National de la Transition a pour missions:\n• d’élaborer et soumettre pour adoption, par referendum le projet de Constitution ;\n• d’élaborer, examiner et adopter les textes législatifs ;\n• de suivre la mise en œuvre de la feuille de route de la Transition ;\n• de contribuer à la défense et à la promotion des Droits de l’Homme et des libertés publiques ;\n• de contribuer à la réconciliation nationale.\n"
       },
       "art-058": {
        "label": "Article 58",
        "kind": "art",
-       "text": "# Article 58\nLes membres du Conseil National de la Tran- sition portent le titre de « Conseiller National ».\nLe mandat des Conseillers Nationaux court à partir de leur nomination par le Président de la Transition et prend fin dès la mise en place de l’Assemblée Nationale.\nTout mandat impératif est nul.\n"
+       "text": "# Article 58\nLes membres du Conseil National de la Transition portent le titre de « Conseiller National ».\nLe mandat des Conseillers Nationaux court à partir de leur nomination par le Président de la Transition et prend fin dès la mise en place de l’Assemblée Nationale.\nTout mandat impératif est nul.\n"
       },
       "art-059": {
        "label": "Article 59",
        "kind": "art",
-       "text": "# Article 59\nLe Conseil National de la Transition adopte son règlement intérieur dès sa première session à la ma- jorité des deux tiers (2/3) de ses membres.\nLe Règlement intérieur détermine notamment : la com- position, les règles de fonctionnement du Bureau du Conseil National de la Transition, le mode de désigna- tion, la composition et la compétence des commissions, l’organisation des services administratifs et les règles de déroulement des débats.\n"
+       "text": "# Article 59\nLe Conseil National de la Transition adopte son règlement intérieur dès sa première session à la majorité des deux tiers (2/3) de ses membres.\nLe Règlement intérieur détermine notamment : la composition, les règles de fonctionnement du Bureau du Conseil National de la Transition, le mode de désignation, la composition et la compétence des commissions, l’organisation des services administratifs et les règles de déroulement des débats.\n"
       },
       "art-060": {
        "label": "Article 60",
        "kind": "art",
-       "text": "# Article 60\nLe Conseil National de la Transition est com- posé de quatre-vingt-un (81) membres choisis pour leur compétence et leur probité, répartis comme suit :\n• Les représentants des partis politiques (15) ;\n• Les faitières des organisations de la société civile (07) ;\n• Les centrales syndicales (05) ;\n• Les organisations patronales (03) ;\n• Les Forces de Défense et de Sécurité (09) ;\n• Les organisations de défense des Droits de l’Homme (02) ;\n• Les organisations des Guinéens de l’étranger (05) ;\n• Les organisations de femmes (03)\n• Les organisations de jeunesse (05)\n• Les organisations culturelles (02)\n• Les confessions religieuses (02) ;\n• Le secteur informel et les métiers (02) ;\n• Les organisations paysannes (02) ;\n• Les sages des régions (02) ;\n• Les personnes vivant avec un handicap (02) ;\n• Les organisations socioprofessionnelles (03) ;\n• Les chambres consulaires (02) ;\n• Les organisations de presse (02) ;\n• Et des personnes ressources (08).\nSous réserve de rejet, les désignations des membres de chaque entité doivent prendre en compte toutes les di- versités et comporter au moins 30% de femmes.\nLes membres du Gouvernement et ceux des Institutions dissoutes à la date du 05 septembre 2021 ne peuvent être désignés au Conseil National de la Transition.\n"
+       "text": "# Article 60\nLe Conseil National de la Transition est composé de quatre-vingt-un (81) membres choisis pour leur compétence et leur probité, répartis comme suit :\n• Les représentants des partis politiques (15) ;\n• Les faitières des organisations de la société civile (07) ;\n• Les centrales syndicales (05) ;\n• Les organisations patronales (03) ;\n• Les Forces de Défense et de Sécurité (09) ;\n• Les organisations de défense des Droits de l’Homme (02) ;\n• Les organisations des Guinéens de l’étranger (05) ;\n• Les organisations de femmes (03)\n• Les organisations de jeunesse (05)\n• Les organisations culturelles (02)\n• Les confessions religieuses (02) ;\n• Le secteur informel et les métiers (02) ;\n• Les organisations paysannes (02) ;\n• Les sages des régions (02) ;\n• Les personnes vivant avec un handicap (02) ;\n• Les organisations socioprofessionnelles (03) ;\n• Les chambres consulaires (02) ;\n• Les organisations de presse (02) ;\n• Et des personnes ressources (08).\nSous réserve de rejet, les désignations des membres de chaque entité doivent prendre en compte toutes les diversités et comporter au moins 30% de femmes.\nLes membres du Gouvernement et ceux des Institutions dissoutes à la date du 05 septembre 2021 ne peuvent être désignés au Conseil National de la Transition.\n"
       },
       "art-061": {
        "label": "Article 61",
        "kind": "art",
-       "text": "# Article 61\nLes membres du Conseil National de la Tran- sition sont nommés par décret du Président de la Transi- tion sur proposition de leurs structures respectives.\n"
+       "text": "# Article 61\nLes membres du Conseil National de la Transition sont nommés par décret du Président de la Transition sur proposition de leurs structures respectives.\n"
       },
       "art-062": {
        "label": "Article 62",
        "kind": "art",
-       "text": "# Article 62\nAprès la désignation de ses membres, le Conseil National de la Transition se réunit en session permanente pendant toute la durée de la Transition.\nLes membres du Conseil National de la Transition bé- néficient de congés parlementaires selon les modalités fixées par le règlement intérieur.\nEn cas de besoin impérieux lié à la Transition, les congés parlementaires peuvent être écourtés.\n"
+       "text": "# Article 62\nAprès la désignation de ses membres, le Conseil National de la Transition se réunit en session permanente pendant toute la durée de la Transition.\nLes membres du Conseil National de la Transition bénéficient de congés parlementaires selon les modalités fixées par le règlement intérieur.\nEn cas de besoin impérieux lié à la Transition, les congés parlementaires peuvent être écourtés.\n"
       },
       "art-063": {
        "label": "Article 63",
@@ -1405,27 +1410,27 @@
       "art-065": {
        "label": "Article 65",
        "kind": "art",
-       "text": "# Article 65\nLes fonctions de Président, de Vice-prési- dents et de membres du Bureau du Conseil National de la Transition sont incompatibles avec l’exercice de tout autre mandat ou responsabilité publique ou privée pen- dant la Transition.\nLes membres du Conseil National de la Transition ne peuvent faire acte de candidature ni aux élections lo- cales, ni aux élections nationales qui seront organisées pour marquer la fin de la Transition.\nLa présente disposition n’est susceptible d’aucune révision.\n"
+       "text": "# Article 65\nLes fonctions de Président, de Vice-présidents et de membres du Bureau du Conseil National de la Transition sont incompatibles avec l’exercice de tout autre mandat ou responsabilité publique ou privée pendant la Transition.\nLes membres du Conseil National de la Transition ne peuvent faire acte de candidature ni aux élections locales, ni aux élections nationales qui seront organisées pour marquer la fin de la Transition.\nLa présente disposition n’est susceptible d’aucune révision.\n"
       },
       "art-066": {
        "label": "Article 66",
        "kind": "art",
-       "text": "# Article 66\nLes Conseillers Nationaux jouissent de l’im- munité parlementaire.\nAucun Conseiller National ne peut être poursuivi, recher- ché, détenu, arrêté ou jugé pour les opinions ou votes émis par lui dans l’exercice de ses fonctions.\nIl ne peut l’être en matière criminelle et correctionnelle qu’après la levée de l’immunité par le Conseil National de la Transition, sauf en cas de flagrant délit.\n"
+       "text": "# Article 66\nLes Conseillers Nationaux jouissent de l’immunité parlementaire.\nAucun Conseiller National ne peut être poursuivi, recherché, détenu, arrêté ou jugé pour les opinions ou votes émis par lui dans l’exercice de ses fonctions.\nIl ne peut l’être en matière criminelle et correctionnelle qu’après la levée de l’immunité par le Conseil National de la Transition, sauf en cas de flagrant délit.\n"
       },
       "art-067": {
        "label": "Article 67",
        "kind": "art",
-       "text": "# Article 67\nLes Conseillers Nationaux perçoivent des in- demnités, bénéficient des avantages et privilèges fixés par décret du président de la Transition, sur proposition du bureau du Conseil National de la Transition.\n"
+       "text": "# Article 67\nLes Conseillers Nationaux perçoivent des indemnités, bénéficient des avantages et privilèges fixés par décret du président de la Transition, sur proposition du bureau du Conseil National de la Transition.\n"
       },
       "art-068": {
        "label": "Article 68",
        "kind": "art",
-       "text": "# Article 68\nLes séances du Conseil National de la Tran- sition sont publiques, sauf si le huis-clos est prononcé. Le compte rendu intégral des débats est publié au Jour- nal Officiel de la République.\n"
+       "text": "# Article 68\nLes séances du Conseil National de la Transition sont publiques, sauf si le huis-clos est prononcé. Le compte rendu intégral des débats est publié au Journal Officiel de la République.\n"
       },
       "art-069": {
        "label": "Article 69",
        "kind": "art",
-       "text": "# Article 69\nL’ordre du jour du Conseil National de la Transition comporte par priorité, et dans l’ordre que le Gouvernement a fixé, la discussion des projets de lois déposés et des propositions de Lois acceptées par lui.\nINTERNATIONAUX\n"
+       "text": "# Article 69\nL’ordre du jour du Conseil National de la Transition comporte par priorité, et dans l’ordre que le Gouvernement a fixé, la discussion des projets de lois déposés et des propositions de Lois acceptées par lui.\n"
       },
       "art-070": {
        "label": "Article 70",
@@ -1440,17 +1445,17 @@
       "art-072": {
        "label": "Article 72",
        "kind": "art",
-       "text": "# Article 72\nNulle cession, nulle adjonction ou nul échange de territoire ne peut avoir lieu sans le consen- tement par voie référendaire des Guinéens.\n"
+       "text": "# Article 72\nNulle cession, nulle adjonction ou nul échange de territoire ne peut avoir lieu sans le consentement par voie référendaire des Guinéens.\n"
       },
       "art-073": {
        "label": "Article 73",
        "kind": "art",
-       "text": "# Article 73\nLes traités, conventions et accords réguliè- rement ratifiés ou approuvés ont, dès leur publication au Journal Officiel de la République, une autorité supé- rieure à celle des lois sous réserve de réciprocité.\n"
+       "text": "# Article 73\nLes traités, conventions et accords régulièrement ratifiés ou approuvés ont, dès leur publication au Journal Officiel de la République, une autorité supérieure à celle des lois sous réserve de réciprocité.\n"
       },
       "art-074": {
        "label": "Article 74",
        "kind": "art",
-       "text": "# Article 74\nLes traités et accords internationaux précédem- ment conclus par la République de Guinée et régulièrement ratifiés demeurent en vigueur, sous réserve de réciprocité.\n"
+       "text": "# Article 74\nLes traités et accords internationaux précédemment conclus par la République de Guinée et régulièrement ratifiés demeurent en vigueur, sous réserve de réciprocité.\n"
       },
       "art-075": {
        "label": "Article 75",
@@ -1475,12 +1480,12 @@
       "art-079": {
        "label": "Article 79",
        "kind": "art",
-       "text": "# Article 79\nLes attributions de la Cour Constitutionnelle sont transférées à la Cour Suprême, durant la période de Transition.\nUne Loi organique détermine l’organisation et le fonction- nement de la Cour Suprême, la procédure suivie devant elle notamment le délai pour sa saisine, de même que les conditions d’éligibilité, les avantages, les immunités et le régime disciplinaire de ses membres.\n"
+       "text": "# Article 79\nLes attributions de la Cour Constitutionnelle sont transférées à la Cour Suprême, durant la période de Transition.\nUne Loi organique détermine l’organisation et le fonctionnement de la Cour Suprême, la procédure suivie devant elle notamment le délai pour sa saisine, de même que les conditions d’éligibilité, les avantages, les immunités et le régime disciplinaire de ses membres.\n"
       },
       "art-080": {
        "label": "Article 80",
        "kind": "art",
-       "text": "# Article 80\nLa Cour des Comptes et la Haute Autorité de la Communication continuent leurs fonctionnements conformé- ment aux dispositions des Ordonnances O/2021/002/PRG/CNRD/SGG et O/2021/003/PRG/CNRD/SGG.\n"
+       "text": "# Article 80\nLa Cour des Comptes et la Haute Autorité de la Communication continuent leurs fonctionnements conformément aux dispositions des Ordonnances O/2021/002/PRG/CNRD/SGG et O/2021/003/PRG/CNRD/SGG.\n"
       },
       "art-081": {
        "label": "Article 81",
@@ -1500,7 +1505,7 @@
       "art-084": {
        "label": "Article 84",
        "kind": "art",
-       "text": "# Article 84\nLa présente Charte de la Transition qui prend effet à partir de sa date de signature, sera enregistrée, publiée au Journal Officiel et exécutée comme Loi fondamentale de la République de Guinée durant la période de la Transition. Conakry, le 27 Septembre 2021 Le Président du Comité National du Rassemblement pour le Développement, Président de la Transition, Chef de l’Etat, Chef Suprême des Armées Colonel Mamadi DOUMBOUYA DECRETS\nDECRET D/2021/004/ PRG/CNRD/SGG DU 02 OCTOBRE 2021, ACCORDANT LA GRÂCE PRÉSIDENTIELLE À CERTAINS CONDAMNÉS\nLE PRESIDENT DE LA TRANSITION,\nVu la Charte Nationale de Transition du 27 Septembre 2021, notamment en son article 43, relatif au droit de grâce ;\nVu l’Ordonnance O/2021/001/PRG/CNRD/SGG du 17 Septembre 2021, portant prorogation des Lois Nationales, des Conventions, Traités et Accords Internationaux en vigueur à la date du 05 Septembre 2021;\nVu le Code de Procédure Pénale, dans ses articles 1189 et 1192;\nVu le Décret D/2021/167/PRG/SGG du 28 Mai 2021, portant Attributions et Organisation du Ministère de la Justice ;\nDECRETE:\n"
+       "text": "# Article 84\nLa présente Charte de la Transition qui prend effet à partir de sa date de signature, sera enregistrée, publiée au Journal Officiel et exécutée comme Loi fondamentale de la République de Guinée durant la période de la Transition.\n"
       }
      },
      "credits": {}
@@ -1513,7 +1518,14 @@
   "Constitution 2025 in force 2025-09-26 (art. 199 and promulgation decree D/2025/176 of that day).",
   "Charte de la Transition in force 2021-09-27 (its art. 84); text from JO n°2021-11 pp. 532-536. Its end is not dated: Constitution art. 196 keeps the transition organs until the new institutions are installed.",
   "Structural headings (Titre, Chapitre...) are not kept in article files.",
-  "The 2020 Constitution is left out: no JO issue with a text layer containing it was found (2020 ordinary issues are scans)."
+  "The 2020 Constitution is left out: no JO issue with a text layer containing it was found (2020 ordinary issues are scans).",
+  "Paragraphs are rebuilt from the two-column layout by line geometry (see parse.py); a line that stops short or is followed by a wider gap ends a paragraph unless it breaks off mid-sentence.",
+  "Line-end hyphens that split a word are removed (the Charte prints ordinary hyphens there); hyphens of compounds written so elsewhere in the text, or in a short list (bien-être, soixante-douze ...), are kept.",
+  "Constitution art. 61 is printed by the JO inside the paragraph of art. 60 (\"... de ses biens. Article 61. Les écarts ...\"); it is split out as its own article without changing a word.",
+  "Each text ends at its signature line (\"Conakry, le ...\"); the decrees that follow in the same JO issue are not part of it.",
+  "The JO text is kept as printed, including two slips in the Charte (\"I ‘Etat\" for \"l’Etat\", \"gouvemance\"); the PDFs are born-digital, so these are the printed words, not a reading error.",
+  "Checked (verify.py): the Charte equals the site's own HTML copy word for word apart from headings, those two slips and three numbers in brackets the site omits; no JO issue published after the Constitution, up to n° 2026-07 of 15 April 2026, revises the Constitution or amends or repeals the Charte.",
+  "The Charte has no end commit: Constitution art. 196 keeps the transition organs and their Charte powers until the new institutions are installed, and no JO text found dates that."
  ],
  "ai_use": [
   "Claude Code (claude-opus-5-5) wrote the fetch/parse scripts; no model wrote or edited legal text."

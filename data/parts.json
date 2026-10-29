@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "50-code-civil.json": {
+   "acts": [
+    "code-civil"
+   ],
+   "sha256": "c03ca0be5bcff3d1a1fea9e01a3acd67e676faba0b3b9df5865f54152c442992"
+  }
+ },
+ "schema": 1
+}

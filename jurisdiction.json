@@ -1,0 +1,11 @@
+{
+  "path": "gn",
+  "code": "GN",
+  "name": "Guinea",
+  "level": "country",
+  "repo": "https://github.com/lexifina/guinea-law",
+  "build": "built: Constitution de la République de Guinée (2025, 1 version, 2025-09-26) and Charte de la Transition (2021, 1 version, 2021-09-27)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 1
+}

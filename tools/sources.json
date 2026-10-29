@@ -1,0 +1,94 @@
+{
+ "files": [
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2025/guinee-jo-2025-12-sp-3.pdf",
+   "role": "text",
+   "use": "Constitution du 26 septembre 2025 (JO n° 2025-12, numéro spécial 3)"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-11.pdf",
+   "role": "text",
+   "use": "Charte de la Transition du 27 septembre 2021 (JO n° 2021-11, pp. 532-536)"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/fr/textes-officiels/constitution.html",
+   "role": "check",
+   "use": "verify.py: the site's HTML copy of the Charte de la Transition"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2025/guinee-jo-2025-12-12-sp.pdf",
+   "role": "later-issue",
+   "use": "verify.py: JO issue after the Constitution, searched for revisions"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2025/guinee-jo-2025-13-sp.pdf",
+   "role": "later-issue",
+   "use": "verify.py: JO issue after the Constitution, searched for revisions"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2025/guinee-jo-2025-13-sp-2.pdf",
+   "role": "later-issue",
+   "use": "verify.py: JO issue after the Constitution, searched for revisions"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2026/guinee-jo-2026-01.pdf",
+   "role": "later-issue",
+   "use": "verify.py: JO issue after the Constitution, searched for revisions"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2026/guinee-jo-2026-01-sp.pdf",
+   "role": "later-issue",
+   "use": "verify.py: JO issue after the Constitution, searched for revisions"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2026/guinee-jo-2026-02.pdf",
+   "role": "later-issue",
+   "use": "verify.py: JO issue after the Constitution, searched for revisions"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2026/guinee-jo-2026-02-sp.pdf",
+   "role": "later-issue",
+   "use": "verify.py: JO issue after the Constitution, searched for revisions"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2026/guinee-jo-2026-03.pdf",
+   "role": "later-issue",
+   "use": "verify.py: JO issue after the Constitution, searched for revisions"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2026/guinee-jo-2026-03-sp.pdf",
+   "role": "later-issue",
+   "use": "verify.py: JO issue after the Constitution, searched for revisions"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2026/guinee-jo-2026-04.pdf",
+   "role": "later-issue",
+   "use": "verify.py: JO issue after the Constitution, searched for revisions"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2026/guinee-jo-2026-04-sp.pdf",
+   "role": "later-issue",
+   "use": "verify.py: JO issue after the Constitution, searched for revisions"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2026/guinee-jo-2026-05.pdf",
+   "role": "later-issue",
+   "use": "verify.py: JO issue after the Constitution, searched for revisions"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2026/guinee-jo-2026-06.pdf",
+   "role": "later-issue",
+   "use": "verify.py: JO issue after the Constitution, searched for revisions"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/JO/2026/guinee-jo-2026-07.pdf",
+   "role": "later-issue",
+   "use": "verify.py: JO issue after the Constitution, searched for revisions"
+  },
+  {
+   "url": "https://journal-officiel.sgg.gov.gn/codes/guinee-code-2019-civil.pdf",
+   "role": "text",
+   "use": "Code civil, Loi L/2019/035/AN (Journal officiel numéro spécial, août 2019), parse_cc.py"
+  }
+ ]
+}

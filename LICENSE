@@ -1,0 +1,22 @@
+The legal texts come from official publications of the Republic of Guinea:
+
+  Journal officiel de la République de Guinée, Secrétariat général du Gouvernement, n° 2025-12 (numéro spécial 3),
+  Constitution de la République de Guinée et décret D/2025/176/PRG/CNRD/SGG du 26 septembre 2025 portant sa
+  promulgation, https://journal-officiel.sgg.gov.gn/JO/2025/guinee-jo-2025-12-sp-3.pdf;
+  Journal officiel de la République de Guinée, n° 2021-11, Charte de la Transition du 27 septembre 2021,
+  https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-11.pdf;
+  both retrieved 28 October 2026; and, for checking only, the site's copy of the Charte
+  (https://journal-officiel.sgg.gov.gn/fr/textes-officiels/constitution.html) and its issues published after
+  26 September 2025, retrieved 28 and 29 October 2026.
+
+The Journal officiel publishes no licence for the legal texts, and its robots.txt allows all. They are official
+legal texts; their copyright status is not confirmed here, and they are reproduced with the attribution above.
+
+Changes made by Lexifina: the text was converted to one Markdown file per provision, one paragraph per line;
+spacing, line-end hyphens and list bullets were normalised; page numbers, running headers, headings, the
+promulgation decree and the signature lines were removed; and the text was arranged as git commits credited to the
+texts concerned. The wording of the law was not changed. The Journal officiel does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

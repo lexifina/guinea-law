@@ -63,6 +63,7 @@ Each commit is credited to the act itself, as enacted (`git log --author` names 
 - The words of the Constitution and the Charte were compared with an independent extraction of the same pages (poppler's `pdftotext`): every word of the body is in a provision file and none is added. Every character of the Code civil's text layer is in exactly one file, in the order printed. The PDFs are born-digital, so nothing was read by OCR.
 - The Charte matches the Journal officiel website's own HTML copy word for word, apart from headings and a few slips; this record keeps the printed words (`tools/verify.py`).
 - The Journal officiel's issues with a text layer, up to n° 2026-12 spécial of 27 October 2026, were searched: those after the Constitution for a change to it or to the Charte (`tools/verify.py`), and those from July 2019 for a law amending the Code civil (`tools/scan.py`); none was found.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -84,6 +85,10 @@ Each commit is credited to the act itself, as enacted (`git log --author` names 
 See [`LICENSE`](LICENSE). The texts are official legal texts of the Republic of Guinea, from the Journal officiel de la République de Guinée (Secrétariat général du Gouvernement), reproduced with that attribution; the Journal officiel publishes no licence for them, and their copyright status is not confirmed. Lexifina's own contributions (the arrangement, commit messages, tables and tools) are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by Claude Code running Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

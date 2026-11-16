@@ -63,6 +63,7 @@ Chaque commit est attribué au texte lui-même, tel qu’adopté (`git log --aut
 - Les termes de la Constitution et de la Charte ont été comparés avec une extraction indépendante des mêmes pages (`pdftotext` de poppler) : chaque mot du corps du texte figure dans un fichier de disposition, et aucun n’a été ajouté. Chaque caractère de la couche texte du Code civil figure dans exactement un fichier, dans l’ordre d’impression. Les PDF sont nativement numériques ; rien n’a donc été lu par OCR.
 - La Charte concorde mot pour mot avec la copie HTML que publie le site même du Journal officiel, à l’exception des intitulés et de quelques erreurs ; ce registre conserve les termes imprimés (`tools/verify.py`).
 - Les numéros du Journal officiel dotés d’une couche texte, jusqu’au n° 2026-12 spécial du 27 octobre 2026, ont été examinés : ceux postérieurs à la Constitution, à la recherche d’une modification de celle-ci ou de la Charte (`tools/verify.py`), et ceux publiés depuis juillet 2019, à la recherche d’une loi modifiant le Code civil (`tools/scan.py`) ; aucune n’a été trouvée.
+- [vulnerabilities/](vulnerabilities/): erreurs de rédaction possibles dans ce droit, trouvées par les détecteurs de global-law et vérifiées à la main. Pas encore lancé.
 
 ## Ce qu’il ne montre pas
 
@@ -86,6 +87,10 @@ Voir [`LICENSE`](LICENSE). Les textes sont des textes juridiques officiels de la
 Aucun modèle d’IA n’a écrit, traduit ou corrigé de texte juridique, et aucun n’est exécuté lors de la construction de l’historique ; les scripts ont été écrits par Claude Code utilisant Claude Opus 5.5 (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
 Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
+
+## Visualisations
+
+- [visualisations/](visualisations/): graphiques tirés de ce dépôt. Pas encore dessinés.
 
 ## En savoir plus
 
